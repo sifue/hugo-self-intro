@@ -14,12 +14,8 @@ weight = 60
 
 +++
 
-### よく使う開発環境
 
-- IntelliJ IDEA
-- Vim
-
-### 業務で使ったことのあるプログラミング言語
+### 業務経験のあるプログラミング言語
 
 - Scala (Play Framework, Akka)
 - JavaScript/TypeScript (Node.js, jQuery)
@@ -27,7 +23,7 @@ weight = 60
 - Ruby (Rails, Sinatra)
 - PHP (Symfony2)
 
-### 業務で運用したことのあるデータストア
+### 業務で運用経験のあるデータストア
 
 - Oracle (Oracle SQL, PL/SQL)
 - MySQL
