@@ -172,12 +172,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "//twitter.com/sifue"
+    link = "//www.facebook.com/yoshimura.soichiro"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//www.facebook.com/yoshimura.soichiro"
+    link = "//github.com/sifue"
 
 
 # Navigation Links
