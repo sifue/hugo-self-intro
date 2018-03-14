@@ -26,6 +26,11 @@ list_format = 0
 
 <table>
     <tr>
+        <td>2018/03</td>
+        <td>エンジニアHub</td>
+        <td><a href="https://employment.en-japan.com/engineerhub/entry/2018/03/14/110000">N予備校・吉村総一郎が教える！あなたをプロのエンジニアに成長させる、3つの心がけ</a></td>
+    </tr>
+    <tr>
         <td>2017/04</td>
         <td>KADOKAWA</td>
         <td><a href="https://www.amazon.co.jp/dp/4046019557/">「高校生からはじめる プログラミング」</a></td>
