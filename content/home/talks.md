@@ -26,9 +26,9 @@ list_format = 0
 
 <table>
     <tr>
-        <td>2018/03</td>
-        <td>エンジニアHub</td>
-        <td><a href="https://employment.en-japan.com/engineerhub/entry/2018/03/14/110000">N予備校・吉村総一郎が教える！あなたをプロのエンジニアに成長させる、3つの心がけ</a></td>
+        <td>2018/06</td>
+        <td>KADOKAWA</td>
+        <td><a href="https://www.amazon.co.jp/dp/4046023023/">「Webプログラミングが面白いほどわかる本」 環境構築からWebサービスの作成まで、はじめからていねいに</a></td>
     </tr>
     <tr>
         <td>2017/04</td>
@@ -70,6 +70,11 @@ list_format = 0
 ### インタビュー
 
 <table>
+    <tr>
+        <td>2018/03</td>
+        <td>エンジニアHub</td>
+        <td><a href="https://employment.en-japan.com/engineerhub/entry/2018/03/14/110000">N予備校・吉村総一郎が教える！あなたをプロのエンジニアに成長させる、3つの心がけ</a></td>
+    </tr>
     <tr>
         <td>2017/07</td>
         <td>経済産業省のキャリア教育事業「わくわくキャッチ！」</td>
