@@ -14,13 +14,21 @@ weight = 70
 
 +++
 
-### 運用している趣味開発プロダクト
+### 趣味開発プロダクト
 
 - [GitHub認証をするはてな匿名ダイアリークローン - N高 匿名ダイアリー](https://n-tokumei.soichiro.org/)
 - [Slack上にTwitterのエゴサーチの結果を表示するボット - twisearch_slackbot](https://github.com/sifue/twisearch_slackbot)
 - [SlackとIRCのリレーサーバー - ircslackrelay](https://github.com/sifue/ircslackrelay)
 - [Twitterボット作成サービス - キャラボット](https://ja.osdn.net/projects/charactorbot/wiki/FrontPage)
 
-### 趣味
+### 競技系のネットゲーム
 
-競技系のネットゲーム、LoL、PUBG、スプラトゥーン、オーバーウォッチ、クラロワ、ハースストーン、シャドウバースなど。
+LoL、Fortnite、PUBG、クラロワ、ハースストーンなど。
+
+### 3Dモデリング
+Blenderによる3Dモデリング
+
+- [ニコニ立体で公開している作品一覧](https://3d.nicovideo.jp/users/24359498/works)
+
+##### 3Dモデリングの作品サンプル
+![3Dモデリングの作品サンプル](/img/3dmodeling.png)
